@@ -1,2 +1,2 @@
 # rental
-this is vidly proj(before re structuring)
+Rest api for movie rental application
